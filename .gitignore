@@ -9,6 +9,7 @@ jspm_packages
 
 # Traveling Ruby
 bin.real/
-bin/
+bin/*
+!bin/setup
 info/
 lib/

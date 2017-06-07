@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set -ex
+
+curl -O http://d6r77u77i8pq3.cloudfront.net/releases/traveling-ruby-20150715-2.2.2-linux-x86_64.tar.gz
+tar xf traveling-ruby-20150715-2.2.2-linux-x86_64.tar.gz
+rm -f traveling-ruby-20150715-2.2.2-linux-x86_64.tar.gz
