@@ -6,3 +6,9 @@ jspm_packages
 .serverless
 
 *.swp
+
+# Traveling Ruby
+bin.real/
+bin/
+info/
+lib/
